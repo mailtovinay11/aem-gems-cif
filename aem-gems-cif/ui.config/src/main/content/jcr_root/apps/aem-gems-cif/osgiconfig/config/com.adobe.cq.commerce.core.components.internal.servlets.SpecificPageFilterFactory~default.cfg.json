@@ -1,3 +1,0 @@
-{
-  "sling.filter.pattern": "/content/aem-gems-cif/.*?/(category-page|product-page)"
-}

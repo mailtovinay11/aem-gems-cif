@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/apps/aem-gems-cif/clientlibs"/>
-    <filter root="/apps/aem-gems-cif/components"/>
-    <filter root="/apps/aem-gems-cif/i18n"/>
-</workspaceFilter>
