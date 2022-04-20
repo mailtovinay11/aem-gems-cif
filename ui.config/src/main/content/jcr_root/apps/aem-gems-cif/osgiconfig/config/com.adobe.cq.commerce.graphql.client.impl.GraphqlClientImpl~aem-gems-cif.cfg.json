@@ -1,0 +1,11 @@
+{
+  "identifier": "aem-gems-shop",
+  "httpMethod": "POST",
+  "url": "http://localhost:1234/graphql",
+  "connectionTimeout": 5000,
+  "socketTimeout": 5000,
+  "maxHttpConnections": 20,
+  "requestPoolTimeout": 2000,
+  "acceptSelfSignedCertificates": true,
+  "allowHttpProtocol": true
+}
