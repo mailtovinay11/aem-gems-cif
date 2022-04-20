@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:graphqlClient="aem-gems-shop"
+        cq:lastModified="{Date}2022-04-20T11:17:14.934+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cif/shell/components/configuration/page/template"
+        jcr:language="en"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Commerce"
+        sling:configPropertyInherit="true"
+        sling:resourceType="cif/shell/components/configuration/page"
+        enableUIDSupport="true"
+        magentoGraphqlEndpoint="/api/graphql"
+        magentoRootCategoryId="Mg=="
+        magentoStore="venia"/>
+    <rep:policy/>
+</jcr:root>
