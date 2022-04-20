@@ -14,7 +14,7 @@
         sling:resourceType="cif/shell/components/configuration/page"
         enableUIDSupport="true"
         magentoGraphqlEndpoint="/api/graphql"
-        magentoRootCategoryId="NjY="
-        magentoStore="wknd"/>
+        magentoRootCategoryId="Mg=="
+        magentoStore="venia"/>
     <rep:policy/>
 </jcr:root>
